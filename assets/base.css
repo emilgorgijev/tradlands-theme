@@ -2376,4 +2376,9 @@ section.page-width {
   padding: 0px 3rem;
 }
 
+
+.product:not(.product--no-media):not(.featured-product) .product__info-wrapper {
+  max-width: 50% !important;
+}
+
 }
