@@ -2336,5 +2336,21 @@ p.announcement-bar__message.h5 {
 
 @import url(//db.onlinewebfonts.com/c/23c0fcab84d99da0de762de7e220a6e1?family=Europa);
 html, body, html, div, p, a, h1, h2, h3, h4, h5, span, button, input{
-  font-family: 'Europa-Regular';
+  font-family: 'Europa';
+}
+
+h1.product__title {
+  font-family: 'Europa';
+  font-size: 24px;
+  text-transform: uppercase;
+  line-height: 1.5;
+  color: #2d2d2d;
+  display: block;
+  letter-spacing: 2px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 12px;
+  clear: both;
+  font-weight: 900;
 }
