@@ -2646,7 +2646,9 @@ button.product-form__submit.button.button--full-width.button--primary {
   
   
   
-  li.swatch-view-item
+  li.swatch-view-item{
+    animation: 2s ease-out 0s 1 opacityanim;
+  }
   
   
   
