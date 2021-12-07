@@ -2454,4 +2454,8 @@ modal-opener.product-popup-modal__opener.no-js-hidden {
     text-underline-offset: 1px;
 }
   
+  .product-form__input.product-form__quantity {
+    display: none;
+}
+  
   /*custom css end*/
