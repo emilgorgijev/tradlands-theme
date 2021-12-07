@@ -2496,5 +2496,11 @@ button.product-form__submit.button.button--full-width.button--primary {
 legend.form__label {
     padding-bottom: 1rem;
 }
+  
+  
+  button.product-form__submit.button.button--full-width.button--primary:hover {
+    opacity: 0.85;
+    transition: 0.25s;
+}
   /*custom css end*/
   
