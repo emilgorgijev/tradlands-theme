@@ -2383,4 +2383,21 @@ section.page-width {
 
 }
   
+  .sale_banner_product {
+    font-family: Europa-Bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 4px 20px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 10px;
+    display: block;
+    white-space: nowrap;
+    min-width: 100px;
+    width: max-content;
+    line-height: 1.4;
+}
+  
+  
   /*custom css end*/
