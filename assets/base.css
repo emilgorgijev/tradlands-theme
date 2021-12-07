@@ -2576,5 +2576,8 @@ ul.swatch-view.swatch-view-custom-image {
     margin-bottom: -1rem;
 }
   
+span.swatch-variant-name {
+    display: none;
+}
   /*custom css end*/
   
