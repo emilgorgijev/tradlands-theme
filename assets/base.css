@@ -2469,7 +2469,7 @@ modal-opener.product-popup-modal__opener.no-js-hidden {
   
   
 button.product-form__submit.button.button--full-width.button--primary {
-    background: #3890bb;
+    background: #276e91;
 }
   
   
@@ -2499,7 +2499,7 @@ legend.form__label {
   
   
   button.product-form__submit.button.button--full-width.button--primary:hover {
-    opacity: 0.85;
+    background: #3890bb;
     transition: 0.25s;
 }
   /*custom css end*/
