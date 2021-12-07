@@ -2481,10 +2481,10 @@ button.product-form__submit.button.button--full-width.button--primary {
 
 .reviews p {
     display: inline-block;
-    padding-left: 2rem;
+    padding-left: 2.5rem;
     font-family: 'Europa';
     letter-spacing: 5px;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
     color: black;
 }
