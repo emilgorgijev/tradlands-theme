@@ -2558,5 +2558,23 @@ span.swatch-variant-name {
     text-transform: uppercase;
 }
   
+  
+  
+  
+  div#swatch-option1 {
+    margin-bottom: 2rem;
+
+}
+
+
+.swatch-single.swatch-view-stack {
+    border-bottom: 3px solid #cacaca;
+
+}
+
+ul.swatch-view.swatch-view-custom-image {
+    margin-bottom: -1rem;
+}
+  
   /*custom css end*/
   
