@@ -2426,10 +2426,32 @@ section.page-width {
     padding: 10px !important;
 }
   
-  modal-opener.product-popup-modal__opener.no-js-hidden {
+modal-opener.product-popup-modal__opener.no-js-hidden {
     position: absolute;
-    top: 17.5rem;
-    left: 4rem;
+    top: 17.6rem;
+    left: 6rem;
+}
+
+  legend.form__label {
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 5px;
+    font-family: 'Europa';
+    text-align: left;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+  
+  modal-opener.product-popup-modal__opener.no-js-hidden button {
+    margin: 0;
+    padding: 0;
+    font-family: Europa-Regular;
+    font-size: 14px;
+    letter-spacing: .1px;
+    color: #2e2e2b;
+    text-decoration: underline;
+        text-decoration: underline;
+    text-underline-offset: 1px;
 }
   
   /*custom css end*/
