@@ -81,8 +81,9 @@
               {{- block.settings.text -}}
             </p>
         
-        <div id="product-sale-banner" class="js-product-sale-banner sale_banner_product" style="background: rgb(250, 250, 248); color: rgb(46, 46, 43);">new</div>
           {%- when 'title' -%}
+         <div id="product-sale-banner" class="js-product-sale-banner sale_banner_product" style="background: rgb(250, 250, 248); color: rgb(46, 46, 43);">new</div>
+       
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
             </h1>

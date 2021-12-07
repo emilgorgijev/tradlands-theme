@@ -2384,7 +2384,7 @@ section.page-width {
 }
   
   .sale_banner_product {
-    font-family: Europa-Bold;
+    font-family: 'Europa';
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -2397,6 +2397,7 @@ section.page-width {
     min-width: 100px;
     width: max-content;
     line-height: 1.4;
+    font-weight:800;
 }
   
   
