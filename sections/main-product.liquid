@@ -76,11 +76,7 @@
           {%- case block.type -%}
           {%- when '@app' -%}
             {% render block %}
-          {%- when 'text' -%}
-            <p class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}" {{ block.shopify_attributes }}>
-              {{- block.settings.text -}}
-            </p>
-        
+
           {%- when 'title' -%}
          <div id="product-sale-banner" class="js-product-sale-banner sale_banner_product" style="background: rgb(250, 250, 248); color: rgb(46, 46, 43);">new</div>
        
