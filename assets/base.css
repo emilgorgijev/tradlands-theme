@@ -2622,14 +2622,16 @@ button.product-form__submit.button.button--full-width.button--primary {
   @keyframes slideInFromLeft {
   0% {
     transform: translateX(-100%);
+    opacity:0;
   }
   100% {
     transform: translateX(0);
+    opacity:100;
   }
 }
   
   h1.product__title {
-    animation: 1s ease-out 0s 1 slideInFromLeft;
+    animation: 0.5s ease-out 0s 1 slideInFromLeft;
 }
   
   
