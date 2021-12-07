@@ -2536,5 +2536,27 @@ tr th:nth-child(1) {
     left: -23px;
     top: 50px;
 }
+
+
+span.swatch-option-name {
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 5px;
+    font-family: Europa-Bold;
+    text-align: left;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+span.swatch-variant-name {
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 5px;
+    font-family: Europa-Bold;
+    text-align: left;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+  
   /*custom css end*/
   
