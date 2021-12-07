@@ -2426,11 +2426,7 @@ section.page-width {
     padding: 10px !important;
 }
   
-modal-opener.product-popup-modal__opener.no-js-hidden {
-    position: absolute;
-    top: 20.5rem;
-    left: 6rem;
-}
+
 
   legend.form__label {
     font-weight: 700;
@@ -2594,6 +2590,26 @@ button.product-form__submit.button.button--full-width.button--primary {
   .swatch-view-item span {
     font-weight: 800;
 }
+  
+  
+  @media only screen and (min-width:800px)
+    {
+      modal-opener.product-popup-modal__opener.no-js-hidden {
+    position: absolute;
+    top: 20.5rem;
+    left: 6rem;
+}
+    }
+  
+  
+    @media only screen and (min-width:800px)
+    {
+      modal-opener.product-popup-modal__opener.no-js-hidden {
+    position: absolute;
+    bottom: -7.7rem;
+    left: 7rem;
+}
+    }
   
   /*custom css end*/
   
