@@ -2502,5 +2502,29 @@ legend.form__label {
     background: #3890bb;
     transition: 0.25s;
 }
+  
+  
+  
+  .product-popup-modal__content-info .h2 {display: none;}
+
+.product-popup-modal__content-info {
+    margin: 0px !important;
+    padding: 0px !important;
+    width: 100% !important;
+}
+
+.remodal.sizeguide.remodal-is-initialized.remodal-is-opened {
+    width: 100% !important;
+    min-width: 100% !important;
+}
+
+
+.product-popup-modal__content {
+    padding: 0px;
+}
+
+tr th:nth-child(1) {
+    width: 136px;
+}
   /*custom css end*/
   
