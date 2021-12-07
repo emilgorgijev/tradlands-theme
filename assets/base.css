@@ -2399,6 +2399,13 @@ section.page-width {
     line-height: 1.4;
     font-weight:800;
 }
-  
-  
+  hr{
+    
+  border-color: #cacaca;
+  border-width: 1px;
+    border-style: solid;
+    clear: both;
+    margin: 12px 0;  
+  height: 0;
+}
   /*custom css end*/
