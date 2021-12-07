@@ -2532,7 +2532,7 @@ tr th:nth-child(1) {
     color: white !important;
 }
   .swatch-tool-tip {
-    width: 85px;
+    width: 85px !important;
     left: -23px;
     top: 50px;
 }
