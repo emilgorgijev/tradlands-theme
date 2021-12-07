@@ -2408,4 +2408,11 @@ section.page-width {
     margin: 12px 0;  
   height: 0;
 }
+  
+  span.price-item.price-item--regular {
+    font-size: 24px;
+    letter-spacing: .25px;
+    line-height: 1.33;
+}
+  
   /*custom css end*/
