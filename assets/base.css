@@ -2586,5 +2586,10 @@ span.swatch-variant-name {
     height: 48px !important;
 }
   
+  
+button.product-form__submit.button.button--full-width.button--primary {
+    padding: 18px 0px;
+}
+  
   /*custom css end*/
   
