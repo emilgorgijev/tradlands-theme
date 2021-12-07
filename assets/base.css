@@ -2602,7 +2602,7 @@ button.product-form__submit.button.button--full-width.button--primary {
     }
   
   
-    @media only screen and (min-width:800px)
+    @media only screen and (max-width:800px)
     {
       modal-opener.product-popup-modal__opener.no-js-hidden {
     position: absolute;
