@@ -2472,4 +2472,23 @@ button.product-form__submit.button.button--full-width.button--primary {
     background: #3890bb;
 }
   
+  
+  span.r-stars {
+    content: url('https://api.iconify.design/carbon/star-filled.svg?color=%232b5c7a');
+    display: inline-block;
+    vertical-align: -3px;
+}
+
+.reviews p {
+    display: inline-block;
+    padding-left: 2rem;
+    font-family: 'Europa';
+    letter-spacing: 5px;
+    font-size: 13px;
+    font-weight: 700;
+    color: black;
+}
+  
+  
   /*custom css end*/
+  
