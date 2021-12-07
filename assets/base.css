@@ -2533,8 +2533,8 @@ tr th:nth-child(1) {
 }
   .swatch-tool-tip {
     width: 85px !important;
-    left: -23px;
-    top: 50px;
+    left: -23px !important;
+    top: 50px !important;
 }
 
 
