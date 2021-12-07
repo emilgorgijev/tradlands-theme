@@ -2606,9 +2606,14 @@ button.product-form__submit.button.button--full-width.button--primary {
     {
       modal-opener.product-popup-modal__opener.no-js-hidden {
     position: absolute;
-    bottom: -7.7rem;
-    left: 7rem;
+    bottom: -5rem;
+    left: 8rem;
 }
+      
+      section.page-width .product.grid.grid--1-col.grid--2-col-tablet {
+    padding: 0px 10px;
+}
+      
     }
   
   /*custom css end*/
