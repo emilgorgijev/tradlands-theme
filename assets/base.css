@@ -2579,5 +2579,12 @@ ul.swatch-view.swatch-view-custom-image {
 span.swatch-variant-name {
     display: none;
 }
+  
+  
+  li.swatch-view-item .star-set-image {
+    width: 48px !important;
+    height: 48px !important;
+}
+  
   /*custom css end*/
   
