@@ -2489,6 +2489,10 @@ button.product-form__submit.button.button--full-width.button--primary {
     color: black;
 }
   
-  
+  .reviews {
+    margin-top: -1rem !important;
+    margin-bottom: -10px;
+
+    
   /*custom css end*/
   
