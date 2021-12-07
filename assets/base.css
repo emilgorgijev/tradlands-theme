@@ -2526,5 +2526,15 @@ legend.form__label {
 tr th:nth-child(1) {
     width: 136px;
 }
+  
+  .swatch-unavailable-go {
+    background-color: #cbcbca;
+    color: white !important;
+}
+  .swatch-tool-tip {
+    width: 85px;
+    left: -23px;
+    top: 50px;
+}
   /*custom css end*/
   
