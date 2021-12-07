@@ -2689,7 +2689,7 @@ button.product-form__submit.button.button--full-width.button--primary {
   }
   
     li.swatch-view-item:nth-child(12){
-    animation: 5s ease-out 0s 1 opacityanim;
+    animation: 5s ease-out 5s 1 opacityanim;
   }
 
   /*custom css end*/
