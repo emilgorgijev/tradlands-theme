@@ -2591,5 +2591,9 @@ button.product-form__submit.button.button--full-width.button--primary {
     padding: 18px 0px;
 }
   
+  .swatch-view-item span {
+    font-weight: 800;
+}
+  
   /*custom css end*/
   
