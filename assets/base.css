@@ -2425,4 +2425,11 @@ section.page-width {
     border-radius: 0px !important;
     padding: 10px !important;
 }
+  
+  modal-opener.product-popup-modal__opener.no-js-hidden {
+    position: absolute;
+    top: 17.5rem;
+    left: 4rem;
+}
+  
   /*custom css end*/
