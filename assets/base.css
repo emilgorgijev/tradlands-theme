@@ -2492,7 +2492,9 @@ button.product-form__submit.button.button--full-width.button--primary {
   .reviews {
     margin-top: -1rem !important;
     margin-bottom: -10px;
-
-    
+  }
+legend.form__label {
+    padding-bottom: 1rem;
+}
   /*custom css end*/
   
