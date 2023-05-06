@@ -27,9 +27,18 @@
         }
       }
     },
+    "content_for_index": [
+
+    ],
     "blocks": {
       "starapps-vtk": {
         "type": "shopify:\/\/apps\/variant-title-king\/blocks\/starapps-vtk-embed\/b9b7a642-58c3-4fe1-8f1b-ed3e502da04b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "9605757816115622534": {
+        "type": "shopify:\/\/apps\/printful-size-guide\/blocks\/app-embed\/a5c81623-5ef4-4979-b0c5-88b682d6e59c",
         "disabled": false,
         "settings": {
         }
