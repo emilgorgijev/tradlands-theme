@@ -37,10 +37,15 @@
         "settings": {
         }
       },
-      "9605757816115622534": {
-        "type": "shopify:\/\/apps\/printful-size-guide\/blocks\/app-embed\/a5c81623-5ef4-4979-b0c5-88b682d6e59c",
+      "starapps-vsk": {
+        "type": "shopify:\/\/apps\/swatch-king-variants-options\/blocks\/variant-swatch-king\/0850b1e4-ba30-4a0d-a8f4-f9a939276d7d",
         "disabled": false,
         "settings": {
+          "enable": true,
+          "alignment": "left",
+          "swatch_location": "After price",
+          "switch_on_hover": true,
+          "preselect_variant": false
         }
       }
     }
